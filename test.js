@@ -1,3 +1,4 @@
-var abc = 123
-var cba = 321;
-console.log(abc+cba);
+function sum(num1, num2) {
+    "use strict";
+    return num1 + num2;
+}
