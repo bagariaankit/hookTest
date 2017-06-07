@@ -1,5 +1,5 @@
 function sum(num1, num2) {
     "use strict";
-	var ankit;
+    //var ankit;
     return num1 + num2;
 }
