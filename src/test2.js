@@ -1,6 +1,10 @@
 function main() {
+	"use strict";
 	var abc;
-	if (abc = 123) {
+	if (abc == 123) {
+		abc = 321;
 	}
-  return 'Hello, World!';
+  return abc;
 }
+
+main();
