@@ -1,6 +1,7 @@
 function main() {
-	var abc;	ddrv
+	var abc;
+	if (abc == 123) {
+		abc = 123;
+	}
   return 'Hello, World!';
 }
-
-main();
